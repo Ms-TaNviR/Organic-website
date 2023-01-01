@@ -91,7 +91,7 @@ body{
     margin-left: 25%;
 }
 
-
+/* <!------------- Section part-six Start------------ --> */
 .joee{
     margin-top: 77px;
 }
@@ -108,9 +108,16 @@ body{
     position: absolute;
     top: 35%;
 }
+/* <!------------- Section part-six End------------ --> */
 
+
+/* <!------------- Section part-eight Start------------ --> */
 .last{
     background-color: rgb(3, 10, 30);
+}
+
+.many{
+    margin-left: 80px;
 }
 
 .part{
@@ -118,8 +125,12 @@ body{
     padding: 50px;
 }
 
+.quick{
+    margin-left: 80px;
+}
+
 .app{
-    margin-left: 45px;
+    margin-left: 40px;
 }
 
 .siocal{
@@ -129,3 +140,4 @@ body{
 .midia{
     text-decoration: none;
 }
+/* <!------------- Section part-eight End------------ --> */
